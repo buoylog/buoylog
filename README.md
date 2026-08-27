@@ -1,20 +1,13 @@
-## Hi there 👋
+### 🛟 Buoylog
 
-<!--
-**buoylog/buoylog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-powered changelogs from your GitHub PRs.
 
-Here are some ideas to get you started:
+Merge a PR → Claude drafts a plain-English release note → you review, publish. It goes out to a hosted changelog page, an embeddable widget, and email/Slack/Discord — all at once.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Test\nBuoylog webhook denemesi
-** Test buoylog webhook denemesi v2
-<!-- test webhook -->
-** Test buoylog webhook denemesi v2
+- 🌐 [buoylog.com](https://buoylog.com)
+- 📖 [Docs](https://buoylog.com/docs)
+- ✍️ [Blog](https://buoylog.com/blog)
+- 🧩 [Buoylog Widget](https://github.com/buoylog/buoylog-widget) — open-source embeddable widget
+- 🐦 [@Buoylog on X](https://x.com/Buoylog)
+
+Minimal GitHub App permissions. No credit-metering. 7-day free trial on every plan.
