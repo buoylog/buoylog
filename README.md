@@ -9,5 +9,6 @@ Merge a PR → Claude drafts a plain-English release note → you review, publis
 - ✍️ [Blog](https://buoylog.com/blog)
 - 🧩 [Buoylog Widget](https://github.com/buoylog/buoylog-widget): open-source embeddable widget
 - 🐦 [@Buoylog on X](https://x.com/Buoylog)
+- 🔒 [Why our GitHub App is read-only](https://buoylog.com/blog/minimal-permission-github-app)
 
 Minimal GitHub App permissions. No credit-metering. 7-day free trial on every plan.
