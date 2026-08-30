@@ -1,6 +1,6 @@
 ### 🛟 Buoylog
 
-AI-powered changelogs from your GitHub PRs.
+AI-drafted changelogs from your GitHub PRs.
 
 Merge a PR → Claude drafts a plain-English release note → you review, publish. It goes out to a hosted changelog page, an embeddable widget, and email/Slack/Discord, all at once.
 
